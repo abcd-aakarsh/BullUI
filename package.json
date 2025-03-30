@@ -1,6 +1,6 @@
 {
   "name": "@abcd-aakarsh/bullui",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple classless UI library",
   "main": "src/components.css",
   "files": [
