@@ -1,11 +1,14 @@
 {
   "name": "@abcd-aakarsh/bullui",
-  "version": "1.0.3",
+  "version": "1.0.2",
   "description": "A simple classless UI library",
-  "main": "components.css",
+  "main": "src/components.css",
   "files": [
-    "components.css"
+    "src/components.css"
   ],
+  "exports": {
+    "./components.css": "./src/components.css"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/abcd-aakarsh/bullui.git"
