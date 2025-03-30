@@ -1,0 +1,12 @@
+{
+  "name": "bullui",
+  "version": "1.0.0",
+  "description": "A simple classless card component",
+  "main": "components.css",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abcd-aakarsh/bullui.git"
+  },
+  "author": "Aakarsh",
+  "license": "MIT"
+}
